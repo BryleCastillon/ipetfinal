@@ -1,0 +1,6 @@
+Specification: 20 points
+1. Database must be connected
+2. Register link in Login page must be correct
+3. Username should accept only alphanumeric limit 10 characters
+4. Prevent XSS when displaying name in Welcome page
+5. Username must be capitalized in Welcome page
